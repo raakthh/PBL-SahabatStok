@@ -1,10 +1,2 @@
-# Virtual Environment
-venv/
-venv310/
-
-# Python Cache
-__pycache__/
-*.pyc
-
-# Model
-*.pkl
+venv
+__pycache__
