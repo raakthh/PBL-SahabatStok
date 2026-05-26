@@ -13,7 +13,7 @@ import joblib
 # LOAD MODEL
 # =========================================================
 
-model = joblib.load("best_model_weekly_sales-appliances.pkl")
+#model = joblib.load("best_model_weekly_sales-appliances.pkl")
 
 # =========================================================
 # INIT FASTAPI
